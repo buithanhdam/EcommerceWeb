@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/form-add-blog.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin/form-add-san-pham.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/user/views/blog-details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/user/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/user/views/package-details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/user/views" />
+      </map>
+    </option>
+  </component>
+</project>
