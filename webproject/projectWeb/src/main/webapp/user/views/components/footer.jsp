@@ -69,7 +69,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-4 col-md-6 order-lg-1 order-3 ">
                     <div class="copyright-link text-lg-start text-center">
-                        <p>Copyright 2022 TravelLab | Thiết kế bởi <a href="#"> nhóm 18</a></p>
+                        <p>Copyright 2022 TravelLab | Thiết kế bởi <a href="#"> Bui Thanh Dam</a></p>
                     </div>
                 </div>
                 <div class="col-lg-4  order-lg-2 order-1">
